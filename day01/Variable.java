@@ -1,3 +1,4 @@
+package day01;
 public class Variable {
 
     public static void main(String[] args) {
