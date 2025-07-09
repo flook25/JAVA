@@ -10,14 +10,18 @@ public class RenameFile {
         File file = new File("test.txt");
 
         if (file.exists()) {
+            // run another time  will do at this point
             file.renameTo(new File("test2.txt"));
             System.out.println("File renamed to test2.txt");
         } else {
+            // run the fist time becaue file never have it before
         try {
             file.createNewFile();
             FileWriter writer = new FileWriter(file);
             writer.write("Hello World!");
             writer.close();
+
+            file.renameTo(new File("test2.txt"));
 
             System.out.println("File renamed to test2.txt");
 
