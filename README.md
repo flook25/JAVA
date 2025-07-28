@@ -1,7 +1,7 @@
 # JAVA
 # ☕ Learn Java: The Modern Way 🚀
 
-![Java Banner](https://www.oracle.com/a/tech/img/rc10-java-badge-topics.png)
+![Java Banner](https://dac.digital/wp-content/uploads/2023/04/backend-java-optimized.png)
 
 [![Java Version](https://img.shields.io/badge/Java-21%2B-blue.svg)](https://www.oracle.com/java/technologies/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
